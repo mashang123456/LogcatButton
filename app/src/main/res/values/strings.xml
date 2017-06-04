@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LogcatButton</string>
+    <string name="tv_log">显示日志级别</string>
+    <string name="bt_v">详细(Verbose)</string>
+    <string name="bt_d">调试(Debug)</string>
+    <string name="bt_i">通告(Info)</string>
+    <string name="bt_w">警告(Warn)</string>
+    <string name="bt_e">错误(Error)</string>
+</resources>
